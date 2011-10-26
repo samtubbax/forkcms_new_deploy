@@ -17,9 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "forkcms_new_deploy"
   gem.homepage = "http://github.com/samtubbax/forkcms_new_deploy"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "sam@samtubbax.be"
+  gem.summary = 'Deploys fork CMS 3.0 and up'
+  gem.description = 'Deploys fork CMS 3.0 and up'
+  gem.email = "sam@sumocoders.be"
   gem.authors = ["sam@sumocoders.be"]
   # dependencies defined in Gemfile
 end
